@@ -4,7 +4,7 @@ title: xiaoshu.ai专栏
 theme: learn
 metaDataFormat: yaml
 params:
-  editURL: "https://github.com/xiaoshu-ai/zhuanlan/edit/master/content/"
+  editURL: "https://github.com/xiaoshu-ai/zhuanlan/edit/main/content/"
   description: "xiaoshu.ai专栏"
   author: "xiaoshu.ai"
   showVisitedLinks: true
