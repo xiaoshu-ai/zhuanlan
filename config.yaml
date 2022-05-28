@@ -1,0 +1,17 @@
+baseURL: /
+languageCode: cn-zh
+title: xiaoshu.ai专栏
+theme: learn
+metaDataFormat: yaml
+params:
+  editURL: "https://github.com/xiaoshu-ai/zhuanlan/edit/master/content/"
+  description: "xiaoshu.ai专栏"
+  author: "xiaoshu.ai"
+  showVisitedLinks: true
+  disableBreadcrumb: false
+  disableNextPrev: false
+  disableLandingPageButton: true
+  disableMermaid: false
+  customMermaidURL: "https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/mermaid/8.8.0/mermaid.min.js"
+  titleSeparator: "::"
+  themeVariant: green
