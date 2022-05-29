@@ -1,0 +1,29 @@
+questions:
+  - title: 第一次鸦片战争是哪一年
+    type: single-choice
+    answer: 0
+    choices:
+      - text: 1840
+        desc: 第一次鸦片战争爆发于1840，结束于1842, 南京条约
+      - text: 1801
+        desc:
+      - text: 1801
+        desc:
+      - text: 1801
+        desc:
+  - title: 洋务运动先驱
+    type: multi-choice
+    answer: [1, 2]
+    choices:
+      - text: 林则徐
+        desc: 第一次鸦片战争爆发于1840，结束于1842, 南京条约
+      - text: 李鸿章
+        desc:
+      - text: 左宗棠
+        desc:
+      - text: 施琅
+        desc:
+  - title: 光绪亲政时间
+    type: input
+    answer: 1889
+    desc:

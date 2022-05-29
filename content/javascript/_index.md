@@ -1,3 +1,3 @@
 ---
-title: JavaScript前端技术
+title: 2. JavaScript前端技术
 ---

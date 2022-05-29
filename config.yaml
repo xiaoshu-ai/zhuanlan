@@ -1,6 +1,6 @@
 baseURL: /zhuanlan/
 languageCode: cn-zh
-title: xiaoshu.ai专栏
+title: 小帅的专栏
 theme: learn
 metaDataFormat: yaml
 params:
